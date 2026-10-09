@@ -28,7 +28,7 @@ By Aaron "The Husky Hacker" Gaddis
 ## Installation
 
 ```bash
-git clone https://github.com/TheHuskyHacker/oscp-exam-coach.git
+git clone https://github.com/TheHuskyHacker/oscp-exam-coach
 cd oscp-exam-coach
 chmod +x oscp-exam-coach.sh
 ```
